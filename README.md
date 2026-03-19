@@ -1,16 +1,20 @@
-## Hi there 👋
+# Halo, saya Patar 👋
 
-<!--
-**72garSec/72garSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah mahasiswa yang tertarik pada bidang Web Development / Frontend / Backend / Engineering / UI Engineering.  
+Saat ini saya sedang mencari kesempatan magang untuk mengembangkan kemampuan teknis dan kolaborasi tim.
 
-Here are some ideas to get you started:
+## Tentang Saya
+- Fokus: Frontend Developer
+- Tech stack: HTML, CSS, JavaScript, React, Tailwind, Node.js
+- Sedang dipelajari: TypeScript, API Integration, Testing
+- Tertarik pada: pembuatan aplikasi web yang rapi, cepat, dan user-friendly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyek Unggulan
+- [Project 1 - Nama Aplikasi](https://github.com/username/nama-repo)
+- [Project 2 - Nama Aplikasi](https://github.com/username/nama-repo)
+- [Project 3 - Nama Aplikasi](https://github.com/username/nama-repo)
+
+## Kontak
+- Email: patarheber5@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/patar-siregar-del019/)
+- CV: https://drive.google.com/drive/folders/1agNExr7o5pEhsCvp1956Hb8zJlL4UfBp?usp=sharing
