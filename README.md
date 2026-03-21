@@ -1,13 +1,13 @@
 # Halo, saya Patar 👋
 
-Saya adalah mahasiswa yang tertarik pada bidang Web Development / Frontend / Backend / Engineering / UI Engineering.  
+Saya adalah mahasiswa yang tertarik pada bidang / Frontend / Backend / Engineering / UI Engineering.  
 Saat ini saya sedang mencari kesempatan magang untuk mengembangkan kemampuan teknis dan kolaborasi tim.
 
 ## Tentang Saya
-- Fokus: Frontend Developer
-- Tech stack: HTML, CSS, JavaScript, React, Tailwind, Node.js
-- Sedang dipelajari: TypeScript, API Integration, Testing
-- Tertarik pada: pembuatan aplikasi web yang rapi, cepat, dan user-friendly
+- Fokus: Jaringan Komputer, Frontend Developer, Analisis 
+- Tech stack: Python, JavaScript, Rangkaian Elektrik
+- Sedang dipelajari: Proteus, API Integration, Testing, Rangkaian Elektrik 
+- Tertarik pada: Jaringan komputer dan rangkaian elektrik
 
 ## Proyek Unggulan
 - [Project 1 - Automatic Switch Design Using Transistors and Diodes]
@@ -19,5 +19,5 @@ Saat ini saya sedang mencari kesempatan magang untuk mengembangkan kemampuan tek
 ## Kontak
 - Email: patarheber5@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/patar-siregar-del019/)
-- CV: [https://drive.google.com/drive/folders/1agNExr7o5pEhsCvp1956Hb8zJlL4UfBp?usp=sharing](https://drive.google.com/drive/folders/1agNExr7o5pEhsCvp1956Hb8zJlL4UfBp)
-- 
+- Tentang Saya: [https://drive.google.com/drive/folders/1agNExr7o5pEhsCvp1956Hb8zJlL4UfBp?usp=sharing](https://drive.google.com/drive/folders/1agNExr7o5pEhsCvp1956Hb8zJlL4UfBp)
+- Sertifikat: https://drive.google.com/drive/folders/1VUmddvLbWv942QqhHQUXN3pJGSNVlR19
