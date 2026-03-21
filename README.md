@@ -10,11 +10,14 @@ Saat ini saya sedang mencari kesempatan magang untuk mengembangkan kemampuan tek
 - Tertarik pada: pembuatan aplikasi web yang rapi, cepat, dan user-friendly
 
 ## Proyek Unggulan
-- [Project 1 - Nama Aplikasi](https://github.com/username/nama-repo)
-- [Project 2 - Nama Aplikasi](https://github.com/username/nama-repo)
-- [Project 3 - Nama Aplikasi](https://github.com/username/nama-repo)
+- [Project 1 - Automatic Switch Design Using Transistors and Diodes]
+- [Project 2 - Automatic Rain Detection System for Predicting Clothes Drying Based on Sensors]
+- [Project 3 - VPN Network Design Using Point-to-Point Tunneling Protocol (PPTP)]
+- [Project 4 - Design and Implementation of a Simple Audio Amplifier Using LM386]
+- [Project 5 - Handling Missing Values And Identifying Outliers In Data]
 
 ## Kontak
 - Email: patarheber5@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/patar-siregar-del019/)
-- CV: https://drive.google.com/drive/folders/1agNExr7o5pEhsCvp1956Hb8zJlL4UfBp?usp=sharing
+- CV: [https://drive.google.com/drive/folders/1agNExr7o5pEhsCvp1956Hb8zJlL4UfBp?usp=sharing](https://drive.google.com/drive/folders/1agNExr7o5pEhsCvp1956Hb8zJlL4UfBp)
+- 
